@@ -1,4 +1,4 @@
-import dijkstra as djk
+import algos.dijkstra as djk
 
 def nodes(i, j):
     nodes = []
